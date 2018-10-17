@@ -1,6 +1,8 @@
 {
   "name": "locate-me",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "pro_id": "a1cc14c8"
 }
